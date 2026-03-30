@@ -1,4 +1,5 @@
 Manual práctico de restauración de backups en SQL Server
+
 📌 Descripción
 En el día a día de un ingeniero de datos o un DBA, restaurar respaldos es una tarea crítica. Ya sea por recuperación ante incidentes, migraciones o análisis histórico, dominar el proceso de restaurar FULL backups y diferenciales en SQL Server es indispensable.
 Este proyecto comparte un manual paso a paso y ejemplos prácticos para ejecutar restauraciones sin errores comunes de rutas, permisos o secuencia de comandos.
