@@ -15,7 +15,7 @@ Este proyecto comparte un manual paso a paso y ejemplos prácticos para ejecutar
 • 	Manual completo (PDF): guía detallada con explicaciones y comentarios.
 • 	Scripts SQL: comandos listos para ejecutar paso a paso.
 • 	Guía gráfica en SSMS: instrucciones para quienes prefieren el entorno visual.
-•   Archivo .back NorthWindXXI
+•   Archivos .back NorthWind y NorthWindDIferencial
 
 🚀 Cómo usarlo
 1. 	Clona este repositorio.
